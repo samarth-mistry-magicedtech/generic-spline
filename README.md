@@ -180,7 +180,7 @@ Higher `segments` = smoother cable but more vertices. Recommended: **64–96** f
 3. Paste the following URL (click the copy button on GitHub):
 
 ```bash
-https://github.com/samarth-mistry-magicedtech/three-point-spline-3d.git#v1.0.0
+https://github.com/samarth-mistry-magicedtech/three-point-spline-3d.git#v1.0.1
 ```
 
 Notes:
