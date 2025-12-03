@@ -1,0 +1,19 @@
+{
+  "name": "com.magicedtech.generic-spline",
+  "version": "1.0.0",
+  "displayName": "Generic Spline",
+  "description": "A generic, extensible spline runtime for Unity with editor utilities. Designed to be engine-agnostic and easy to integrate.",
+  "unity": "6000.0",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "author": {
+    "name": "Samarth Mistry",
+    "email": "samarth.dilpesh@magicedtech.com"
+  },
+  "keywords": ["spline", "curve", "path", "math", "runtime"],
+  "dependencies": {
+    "com.unity.splines": "2.8.2",
+    "com.unity.mathematics": "1.2.6"
+  }
+}

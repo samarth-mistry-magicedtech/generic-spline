@@ -1,0 +1,82 @@
+# Unity + C# package .gitignore
+# Works for using this folder as a standalone Unity project or as a UPM package repo
+
+# OS
+.DS_Store
+Thumbs.db
+Icon?
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-workspace
+*.sublime-project
+
+# C# build artifacts
+[Bb]in/
+[Oo]bj/
+*.user
+*.userprefs
+*.suo
+*.sln.docstates
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity project caches (in case this folder is opened as a project)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Mm]emoryCaptures*/
+Sysinfo.txt
+
+# Addressables / StreamingAssets intermediate
+[Aa]sset[Bb]undles/
+[Aa]ddressable[Aa]ssets[Dd]ata/
+
+# Crash/Reports
+*.stacktrace
+*.dmp
+
+# Rider / JetBrains
+*.iml
+.gradle/
+.gradle-cache/
+
+# Unity meta cache
+*.csproj
+*.unityproj
+*.tmp
+*.tmp.meta
+*.bak
+*.bak.meta
+*.orig
+*.orig.meta
+
+# Package Manager caches
+Packages/packages-lock.json
+
+# TextMesh Pro auto-generated
+[Tt]ext[Mm]esh[Pp]ro/*/Resources/*
+
+# VS
+.vs/
+
+# Misc
+*.log
+*.meta~
+*.lock
+*.tgz
+
+# Ignore exported unitypackages
+*.unitypackage

@@ -1,0 +1,17 @@
+{
+  "name": "GenericSpline",
+  "rootNamespace": "",
+  "references": [
+    "Unity.Splines",
+    "Unity.Mathematics"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

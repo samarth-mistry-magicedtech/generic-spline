@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d54ddbdb78d76d14a9f807a2901d5e2b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startPoint: {instanceID: 0}
+  - endPoint: {instanceID: 0}
+  - dipReference: {instanceID: 0}
+  - cableMaterial: {fileID: 2100000, guid: 926bd6f5bcf362e48901dc72cd4f1a26, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
