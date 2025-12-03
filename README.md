@@ -238,8 +238,8 @@ If your object has a `"Tip"` child:
 ---
 
 ## Source Code
-Repository: https://github.com/samarth-mistry-magicedtech/generic-spline
-Issues: https://github.com/samarth-mistry-magicedtech/generic-spline/issues
+- Repository: https://github.com/samarth-mistry-magicedtech/generic-spline
+- Issues: https://github.com/samarth-mistry-magicedtech/generic-spline/issues
 
 ---
 
